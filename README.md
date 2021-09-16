@@ -18,8 +18,6 @@ There are two gaming scenes in this project:
 
 ![Run and Jump Demonstration](./gameplay_vid_descriptions/run_n_jump.gif "Run and Jump Demonstration")
 
-
-
 - Balloons, Bombs & Booleans
 
 ![Balloons, Bombs & Booleans Demonstration](./gameplay_vid_descriptions/ballons_bombs_n_booleans.gif "Balloons, Bombs & Booleans Demonstration")
